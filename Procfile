@@ -1,0 +1,1 @@
+web: gunicorn ScoreTracker.wsgi --log-file -
